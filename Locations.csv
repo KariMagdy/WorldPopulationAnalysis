@@ -1,0 +1,183 @@
+"Country.Name","2016","code","lat","lng"
+"Aruba",104822,"AW",12.5,-69.97
+"Afghanistan",34656032,"AF",33,65
+"Angola",28813463,"AO",-12.5,18.5
+"Albania",2876101,"AL",41,20
+"Andorra",77281,"AD",42.5,1.5
+"United Arab Emirates",9269612,"AE",24,54
+"Argentina",43847430,"AR",-34,-64
+"Armenia",2924816,"AM",40,45
+"American Samoa",55599,"AS",-14.33,-170
+"Antigua and Barbuda",100963,"AG",17.05,-61.8
+"Australia",24127159,"AU",-27,133
+"Austria",8747358,"AT",47.33,13.33
+"Azerbaijan",9762274,"AZ",40.5,47.5
+"Burundi",10524117,"BI",-3.5,30
+"Belgium",11348159,"BE",50.83,4
+"Benin",10872298,"BJ",9.5,2.25
+"Burkina Faso",18646433,"BF",13,-2
+"Bangladesh",162951560,"BD",24,90
+"Bulgaria",7127822,"BG",43,25
+"Bahrain",1425171,"BH",26,50.55
+"Bosnia and Herzegovina",3516816,"BA",44,18
+"Belarus",9507120,"BY",53,28
+"Belize",366954,"BZ",17.25,-88.75
+"Bermuda",65331,"BM",32.33,-64.75
+"Bolivia",10887882,"BO",-17,-65
+"Brazil",207652865,"BR",-10,-55
+"Barbados",284996,"BB",13.17,-59.53
+"Brunei Darussalam",423196,"BN",4.5,114.67
+"Bhutan",797765,"BT",27.5,90.5
+"Botswana",2250260,"BW",-22,24
+"Central African Republic",4594621,"CF",7,21
+"Canada",36286425,"CA",60,-95
+"Switzerland",8372098,"CH",47,8
+"Chile",17909754,"CL",-30,-71
+"China",1378665000,"CN",35,105
+"Cote d'Ivoire",23695919,"CI",8,-5
+"Cameroon",23439189,"CM",6,12
+"Colombia",48653419,"CO",4,-72
+"Comoros",795601,"KM",-12.17,44.25
+"Costa Rica",4857274,"CR",10,-84
+"Cuba",11475982,"CU",21.5,-80
+"Cayman Islands",60765,"KY",19.5,-80.5
+"Cyprus",1170125,"CY",35,33
+"Czech Republic",10561633,"CZ",49.75,15.5
+"Germany",82667685,"DE",51,9
+"Djibouti",942333,"DJ",11.5,43
+"Dominica",73543,"DM",15.42,-61.33
+"Denmark",5731118,"DK",56,10
+"Dominican Republic",10648791,"DO",19,-70.67
+"Algeria",40606052,"DZ",28,3
+"Ecuador",16385068,"EC",-2,-77.5
+"Eritrea",NA,"ER",15,39
+"Spain",46443959,"ES",40,-4
+"Estonia",1316481,"EE",59,26
+"Ethiopia",102403196,"ET",8,38
+"Finland",5495096,"FI",64,26
+"Fiji",898760,"FJ",-18,175
+"France",66896109,"FR",46,2
+"Faroe Islands",49117,"FO",62,-7
+"Gabon",1979786,"GA",-1,11.75
+"United Kingdom",65637239,"GB",54,-2
+"Georgia",3719300,"GE",42,43.5
+"Ghana",28206728,"GH",8,-2
+"Gibraltar",34408,"GI",36.18,-5.37
+"Guinea",12395924,"GN",11,-10
+"Guinea-Bissau",1815698,"GW",12,-15
+"Equatorial Guinea",1221490,"GQ",2,10
+"Greece",10746740,"GR",39,22
+"Grenada",107317,"GD",12.12,-61.67
+"Greenland",56186,"GL",72,-40
+"Guatemala",16582469,"GT",15.5,-90.25
+"Guam",162896,"GU",13.47,144.78
+"Guyana",773303,"GY",5,-59
+"Honduras",9112867,"HN",15,-86.5
+"Croatia",4170600,"HR",45.17,15.5
+"Haiti",10847334,"HT",19,-72.42
+"Hungary",9817958,"HU",47,20
+"Indonesia",261115456,"ID",-5,120
+"India",1324171354,"IN",20,77
+"Ireland",4773095,"IE",53,-8
+"Iraq",37202572,"IQ",33,44
+"Iceland",334252,"IS",65,-18
+"Israel",8547100,"IL",31.5,34.75
+"Italy",60600590,"IT",42.83,12.83
+"Jamaica",2881355,"JM",18.25,-77.5
+"Jordan",9455802,"JO",31,36
+"Japan",126994511,"JP",36,138
+"Kazakhstan",17797032,"KZ",48,68
+"Kenya",48461567,"KE",1,38
+"Cambodia",15762370,"KH",13,105
+"Kiribati",114395,"KI",1.42,173
+"Kuwait",4052584,"KW",29.34,47.66
+"Lebanon",6006668,"LB",33.83,35.83
+"Liberia",4613823,"LR",6.5,-9.5
+"Liechtenstein",37666,"LI",47.17,9.53
+"Sri Lanka",21203000,"LK",7,81
+"Lesotho",2203821,"LS",-29.5,28.5
+"Lithuania",2872298,"LT",56,24
+"Luxembourg",582972,"LU",49.75,6.17
+"Latvia",1960424,"LV",57,25
+"Morocco",35276786,"MA",32,-5
+"Monaco",38499,"MC",43.73,7.4
+"Madagascar",24894551,"MG",-20,47
+"Maldives",417492,"MV",3.25,73
+"Mexico",127540423,"MX",23,-102
+"Marshall Islands",53066,"MH",9,168
+"Mali",17994837,"ML",17,-4
+"Malta",436947,"MT",35.83,14.58
+"Myanmar",52885223,"MM",22,98
+"Montenegro",622781,"ME",42,19
+"Mongolia",3027398,"MN",46,105
+"Northern Mariana Islands",55023,"MP",15.2,145.75
+"Mozambique",28829476,"MZ",-18.25,35
+"Mauritania",4301018,"MR",20,-12
+"Mauritius",1263473,"MU",-20.28,57.55
+"Malawi",18091575,"MW",-13.5,34
+"Malaysia",31187265,"MY",2.5,112.5
+"Namibia",2479713,NA,-22,17
+"New Caledonia",278000,"NC",-21.5,165.5
+"Niger",20672987,"NE",16,8
+"Nigeria",185989640,"NG",10,8
+"Nicaragua",6149928,"NI",13,-85
+"Netherlands",17018408,"NL",52.5,5.75
+"Norway",5232929,"NO",62,10
+"Nepal",28982771,"NP",28,84
+"Nauru",13049,"NR",-0.53,166.92
+"New Zealand",4692700,"NZ",-41,174
+"Oman",4424762,"OM",21,57
+"Pakistan",193203476,"PK",30,70
+"Panama",4034119,"PA",9,-80
+"Peru",31773839,"PE",-10,-76
+"Philippines",103320222,"PH",13,122
+"Palau",21503,"PW",7.5,134.5
+"Papua New Guinea",8084991,"PG",-6,147
+"Poland",37948016,"PL",52,20
+"Puerto Rico",3411307,"PR",18.25,-66.5
+"Portugal",10324611,"PT",39.5,-8
+"Paraguay",6725308,"PY",-23,-58
+"French Polynesia",280208,"PF",-15,-140
+"Qatar",2569804,"QA",25.5,51.25
+"Romania",19705301,"RO",46,25
+"Russian Federation",144342396,"RU",60,100
+"Rwanda",11917508,"RW",-2,30
+"Saudi Arabia",32275687,"SA",25,45
+"Sudan",39578828,"SD",15,30
+"Senegal",15411614,"SN",14,-14
+"Singapore",5607283,"SG",1.37,103.8
+"Solomon Islands",599419,"SB",-8,159
+"Sierra Leone",7396190,"SL",8.5,-11.5
+"El Salvador",6344722,"SV",13.83,-88.92
+"San Marino",33203,"SM",43.77,12.42
+"Somalia",14317996,"SO",10,49
+"Serbia",7057412,"RS",44,21
+"Sao Tome and Principe",199910,"ST",1,7
+"Suriname",558368,"SR",4,-56
+"Slovenia",2064845,"SI",46,15
+"Sweden",9903122,"SE",62,15
+"Swaziland",1343098,"SZ",-26.5,31.5
+"Seychelles",94677,"SC",-4.58,55.67
+"Syrian Arab Republic",18430453,"SY",35,38
+"Turks and Caicos Islands",34900,"TC",21.75,-71.58
+"Chad",14452543,"TD",15,19
+"Togo",7606374,"TG",8,1.17
+"Thailand",68863514,"TH",15,100
+"Tajikistan",8734951,"TJ",39,71
+"Turkmenistan",5662544,"TM",40,60
+"Tonga",107122,"TO",-20,-175
+"Trinidad and Tobago",1364962,"TT",11,-61
+"Tunisia",11403248,"TN",34,9
+"Turkey",79512426,"TR",39,35
+"Tuvalu",11097,"TV",-8,178
+"Uganda",41487965,"UG",1,32
+"Ukraine",45004645,"UA",49,32
+"Uruguay",3444006,"UY",-33,-56
+"United States",323127513,"US",38,-97
+"Uzbekistan",31848200,"UZ",41,64
+"Vietnam",92701100,"VN",16,106
+"Vanuatu",270402,"VU",-16,167
+"Samoa",195125,"WS",-13.58,-172.33
+"South Africa",55908865,"ZA",-29,24
+"Zambia",16591390,"ZM",-15,30
+"Zimbabwe",16150362,"ZW",-20,30

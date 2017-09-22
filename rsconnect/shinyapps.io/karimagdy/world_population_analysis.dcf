@@ -1,0 +1,12 @@
+name: world_population_analysis
+title: World Population Analysis
+username:
+account: karimagdy
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 217421
+bundleId: 992392
+url: https://karimagdy.shinyapps.io/world_population_analysis/
+when: 1506073617.42025
+asMultiple: FALSE
+asStatic: FALSE
